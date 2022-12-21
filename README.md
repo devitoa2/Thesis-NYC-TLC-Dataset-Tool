@@ -18,4 +18,4 @@ After running the application, open http://localhost:8080 in your browser to vie
 Since this application uses Vaadin charts, after a period of 24 hours from first opening the application with Charts in a local browser, a pop-up appears asking you to validate your subscription to Vaadin Pro or higher. 
 https://vaadin.com/docs/latest/components/charts/installing
 
-Vaadin Pro is free for both teachers and students https://vaadin.com/education.
+Vaadin Pro is free for both teachers and students. https://vaadin.com/education
