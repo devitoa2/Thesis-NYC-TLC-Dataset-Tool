@@ -7,7 +7,7 @@ The only requirement is Java 11 (see License Key section below).
 ## Running the application
 
 Running the application is a 3 step process: 
-1. Open a terminal and navigate to the 
+1. Open a terminal and navigate to the root directory for the project. `\nyc-tlc-dataset-tool`
 2. Execute the following command depending on your OS: `mvnw clean package -Pproduction` (Windows),
 or `./mvnw clean package -Pproduction` (Mac & Linux). This will build a JAR file with all the dependencies and front-end resources,
 ready to be deployed. The file can be found in the `target` folder after the build completes.
